@@ -1,0 +1,81 @@
+/* 
+  Localizable.strings
+  NozhaClient
+
+  Created by macbook on 23/02/2021.
+  
+*/
+"Logout" = "Logout";
+"Login" = "Login";
+"Do you want signout?" = "Do you want signout?";
+"Please  check your internet connection" = "Please  check your internet connection";
+"Connection Error" = "Connection Error";
+"Retry" = "Retry";
+"Ok" = "Ok";
+"No" ="No";
+
+"You must enter valid mobile number" = "You must enter valid mobile number";
+"You must enter valid mobile number/ email" = "You must enter valid mobile number/ email";
+"You must enter password" = "You must enter password";
+"Password less than 6 characters" = "Password less than 6 characters";
+"You must enter valid email" = "You must enter valid email";
+"You must enter valid code" = "You must enter valid code";
+"Passwords mismatch" = "Passwords mismatch";
+
+"Enter code sent to:" = "Enter code sent to:";
+"You must enter full name" = "You must enter full name";
+"Name less than 7 characters" = "Name less than 7 characters";
+
+
+"You dont have whatsapp app" = "You dont have whatsapp app";
+"You must enter message" = "You must enter message";
+"All" = "All";
+"Choose way :" = "Choose way :";
+
+"Camera" = "Camera";
+"Album" = "Album";
+"Move" = "Move";
+"Edit" = "Edit";
+"Delete" = "Delete";
+"Cancel" = "Cancel";
+
+"Write message details" = "Write message details";
+
+"Rate" = "Rate";
+"Choose" = "Choose";
+
+"You must enter first name" = "You must enter first name";
+
+"You must add your rate" = "You must add your rate";
+"No order notes" = "No order notes";
+"Agree usage policy" = "Agree usage policy";
+"Today Reservations:" = "Today Reservations:";
+"Welcome" = "Welcome";
+"Reservations" = "Reservations";
+"Services" = "Services";
+"Current" = "Current" ;
+"Previous" = "Previous";
+"Confirm attendance" = "Confirm attendance";
+"Offers & Srvice" = "Offers & Srvice";
+"Near of you activities" = "Near of you activities";
+"Most ordered activities" = "Most ordered activities";
+"you must be logged in to view services in favorites" = "you must be logged in to view services in favorites";
+"You must be logged to browse reservations" = "You must be logged to browse reservations";
+"Current Reservations" = "Current Reservations";
+"Previous Reservations" = "Previous Reservations";
+"Messaging us by" = "Messaging us by" ;
+"Contact us: " ="Contact us: ";
+"Service details" = "Service details";
+"Reviews" = "Reviews";
+"No services in favorites" = "No services in favorites";
+"No. persons" = "No. persons" ;
+"You must enter persons number" = "You must enter persons number";
+"Reservation :" = "Reservation :" ;
+"You must add your rate" ="You must add your rate" ;
+"pending" = "Pending";
+"accepted" = "Accepted";
+"completed" = "Completed";
+"rejected" = "Rejected";
+"canceled" = "Canceled";
+"Watting payment" = "Watting payment";
+

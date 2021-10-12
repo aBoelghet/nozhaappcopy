@@ -1,0 +1,555 @@
+
+/* Class = "UILabel"; text = "السياحة والسفر"; ObjectID = "0tD-uU-SHd"; */
+"0tD-uU-SHd.text" = "";
+
+/* Class = "UILabel"; text = "اخر تحديث 25.05.2020"; ObjectID = "11W-Qi-0X5"; */
+"11W-Qi-0X5.text" = "";
+
+/* Class = "UILabel"; text = "عرض الكل"; ObjectID = "1Pk-hI-f5b"; */
+"1Pk-hI-f5b.text" = "Show all";
+
+/* Class = "UILabel"; text = "4.5  (250 تقييم)"; ObjectID = "1ff-3f-GqJ"; */
+"1ff-3f-GqJ.text" = "";
+
+/* Class = "UILabel"; text = "الحضور"; ObjectID = "1s2-uV-2hR"; */
+"1s2-uV-2hR.text" = "Attendance";
+
+/* Class = "UILabel"; text = "30"; ObjectID = "1yF-ic-UiA"; */
+"1yF-ic-UiA.text" = "";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "2C9-U9-6yw"; */
+"2C9-U9-6yw.text" = "";
+
+/* Class = "UILabel"; text = "عدد الأشخاص"; ObjectID = "2vO-jf-SOi"; */
+"2vO-jf-SOi.text" = "No. persons";
+
+/* Class = "UILabel"; text = "إجابات الأسئلة"; ObjectID = "3ce-pF-kw1"; */
+"3ce-pF-kw1.text" = "Questions answer";
+
+/* Class = "UIButton"; normalTitle = "تأكيد الحضور"; ObjectID = "3sC-UE-I8l"; */
+"3sC-UE-I8l.normalTitle" = "Confirm attendance";
+
+/* Class = "UILabel"; text = "أضف الخدمة الأولى الان"; ObjectID = "4dT-my-mQN"; */
+"4dT-my-mQN.text" = "Add first service";
+
+/* Class = "UILabel"; text = " ريال 500"; ObjectID = "4ht-tP-8tf"; */
+"4ht-tP-8tf.text" = "";
+
+/* Class = "UILabel"; text = "  250.05 ريال"; ObjectID = "4ss-dc-HE5"; */
+"4ss-dc-HE5.text" = "";
+
+/* Class = "UILabel"; text = "3.4"; ObjectID = "4v8-5J-axN"; */
+"4v8-5J-axN.text" = "";
+
+/* Class = "UILabel"; text = "الحجوزات الحالية"; ObjectID = "58q-PK-MKd"; */
+"58q-PK-MKd.text" = "Current reservations";
+
+/* Class = "UILabel"; text = "30"; ObjectID = "5eu-h6-4zS"; */
+"5eu-h6-4zS.text" = "";
+
+/* Class = "UILabel"; text = "قبول الطلب"; ObjectID = "64f-gk-ufF"; */
+"64f-gk-ufF.text" = "Accept reservation";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "682-O5-4U2"; */
+"682-O5-4U2.text" = "";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "6Vu-9f-2XZ"; */
+"6Vu-9f-2XZ.text" = "";
+
+/* Class = "UILabel"; text = "فلترة الحجوزات"; ObjectID = "6we-zp-wKA"; */
+"6we-zp-wKA.text" = "Filter reservations";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "6yt-G0-ka7"; */
+"6yt-G0-ka7.text" = "";
+
+/* Class = "UILabel"; text = "  250.05 ريال"; ObjectID = "7DH-Qu-DD9"; */
+"7DH-Qu-DD9.text" = "";
+
+/* Class = "UILabel"; text = "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى"; ObjectID = "7I0-xu-ikt"; */
+"7I0-xu-ikt.text" = "";
+
+/* Class = "UIButton"; normalTitle = "عرض الكل"; ObjectID = "7Um-2N-zN4"; */
+"7Um-2N-zN4.normalTitle" = "Show all";
+
+/* Class = "UILabel"; text = "الأحد 28.05.2020 | 08:30"; ObjectID = "7Xc-fK-ahp"; */
+"7Xc-fK-ahp.text" = "";
+
+/* Class = "UILabel"; text = "2500.5"; ObjectID = "87M-2C-aYz"; */
+"87M-2C-aYz.text" = "";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "8Wp-79-PF6"; */
+"8Wp-79-PF6.text" = "";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "8xE-EP-n8M"; */
+"8xE-EP-n8M.text" = "";
+
+/* Class = "UILabel"; text = "السعر"; ObjectID = "9JN-6L-yfs"; */
+"9JN-6L-yfs.text" = "Price";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "9sX-cc-UGL"; */
+"9sX-cc-UGL.text" = "";
+
+/* Class = "UILabel"; text = "المدة"; ObjectID = "AMO-lp-NEi"; */
+"AMO-lp-NEi.text" = "Duration";
+
+/* Class = "UILabel"; text = "قيد التدقيق"; ObjectID = "Aao-QT-xoQ"; */
+"Aao-QT-xoQ.text" = "Pending";
+
+/* Class = "UILabel"; text = "حجوزات الشهر "; ObjectID = "Anp-Rt-35M"; */
+"Anp-Rt-35M.text" = "Month reservations";
+
+/* Class = "UILabel"; text = "05:30"; ObjectID = "BU7-iI-phe"; */
+"BU7-iI-phe.text" = "";
+
+/* Class = "UILabel"; text = "  250.05 ريال"; ObjectID = "BdZ-yu-i34"; */
+"BdZ-yu-i34.text" = "";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "BpS-ay-lLb"; */
+"BpS-ay-lLb.text" = "";
+
+/* Class = "UILabel"; text = "كافة الخدمات"; ObjectID = "BqB-Pn-hXP"; */
+"BqB-Pn-hXP.text" = "All services";
+
+/* Class = "UILabel"; text = "لا يوجد أي حجوزات"; ObjectID = "C3e-qg-62H"; */
+"C3e-qg-62H.text" = "No any reservations";
+
+/* Class = "UILabel"; text = "تسجيل الخروج"; ObjectID = "CnD-y7-7xY"; */
+"CnD-y7-7xY.text" = "Logout";
+
+/* Class = "UILabel"; text = "ضريبة القيمة المضافة"; ObjectID = "DCw-Zj-SXb"; */
+"DCw-Zj-SXb.text" = "Tax";
+
+/* Class = "UILabel"; text = "لا يوجد أي حجوزات"; ObjectID = "DKr-V0-OTo"; */
+"DKr-V0-OTo.text" ="No any reservations";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "DWM-Rv-H8W"; */
+"DWM-Rv-H8W.text" = "";
+
+/* Class = "UILabel"; text = "الخدمات"; ObjectID = "Df0-Pv-RoA"; */
+"Df0-Pv-RoA.text" = "Services";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "EM2-c4-RhZ"; */
+"EM2-c4-RhZ.text" = "";
+
+/* Class = "UILabel"; text = "سعر الخدمة"; ObjectID = "Eq5-vK-EdP"; */
+"Eq5-vK-EdP.text" = "Service price";
+
+/* Class = "UILabel"; text = "عدد الحجوزات"; ObjectID = "Ez1-jb-MX4"; */
+"Ez1-jb-MX4.text" = "No. reservations";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "FKP-04-zzK"; */
+"FKP-04-zzK.text" = "";
+
+/* Class = "UILabel"; text = "سعر الخدمة"; ObjectID = "FpC-eb-vP1"; */
+"FpC-eb-vP1.text" = "Service price";
+
+/* Class = "UILabel"; text = "التكلفة الإجمالية"; ObjectID = "Gej-Zq-Wgb"; */
+"Gej-Zq-Wgb.text" = "Total cost";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "HKk-e4-xuM"; */
+"HKk-e4-xuM.text" = "";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "HOg-VX-zd7"; */
+"HOg-VX-zd7.text" = "";
+
+/* Class = "UILabel"; text = "حجوزات اليوم : 250"; ObjectID = "HTL-aI-eic"; */
+"HTL-aI-eic.text" = "Today reservations";
+
+/* Class = "UILabel"; text = "هيئة الترفيه السعودية"; ObjectID = "HXF-K7-cud"; */
+"HXF-K7-cud.text" = "";
+
+/* Class = "UILabel"; text = "لا يوجد أي حجوزات"; ObjectID = "Iql-5P-hKl"; */
+"Iql-5P-hKl.text" = "No any reservations";
+
+/* Class = "UILabel"; text = "  250.05 ريال"; ObjectID = "J8O-76-igt"; */
+"J8O-76-igt.text" = "";
+
+/* Class = "UILabel"; text = "الحاليــة ( 250 )"; ObjectID = "JKt-fe-HSg"; */
+"JKt-fe-HSg.text" = "Current";
+
+/* Class = "UILabel"; text = "25.05.2020"; ObjectID = "JLq-vO-3B6"; */
+"JLq-vO-3B6.text" = "";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "JO3-8B-w9N"; */
+"JO3-8B-w9N.normalTitle" = "";
+
+/* Class = "UILabel"; text = "3.4"; ObjectID = "JsE-s7-xwy"; */
+"JsE-s7-xwy.text" = "";
+
+/* Class = "UILabel"; text = "الأحد 28.05.2020 | 08:30"; ObjectID = "KhH-hN-S3G"; */
+"KhH-hN-S3G.text" = "";
+
+/* Class = "UILabel"; text = "فعاليات و عروض قريبة منك"; ObjectID = "LBK-2L-jbC"; */
+"LBK-2L-jbC.text" = "";
+
+/* Class = "UILabel"; text = " ريال 500"; ObjectID = "LRf-ij-wRM"; */
+"LRf-ij-wRM.text" = "";
+
+/* Class = "UILabel"; text = "حجوزات اليوم"; ObjectID = "N0k-56-aOf"; */
+"N0k-56-aOf.text" = "Reservations today";
+
+/* Class = "UILabel"; text = "الحجوزات الحالية"; ObjectID = "NGe-uJ-Jcx"; */
+"NGe-uJ-Jcx.text" = "Current reservations";
+
+/* Class = "UILabel"; text = "فلتر"; ObjectID = "NRh-UO-2JG"; */
+"NRh-UO-2JG.text" = "Filter";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "Ncx-7d-Keu"; */
+"Ncx-7d-Keu.text" = "";
+
+/* Class = "UILabel"; text = "وقت الحجز"; ObjectID = "NvI-aC-GvS"; */
+"NvI-aC-GvS.text" = "Reservation time";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "O2a-op-3Zd"; */
+"O2a-op-3Zd.text" = "";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "OON-2O-OYj"; */
+"OON-2O-OYj.text" = "";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "OPN-Rb-9S4"; */
+"OPN-Rb-9S4.text" = "";
+
+/* Class = "UILabel"; text = "عدد الأشخاص"; ObjectID = "OZ9-gz-miU"; */
+"OZ9-gz-miU.text" = "No. persons";
+
+/* Class = "UILabel"; text = "تواصل معنا"; ObjectID = "OZN-4N-elt"; */
+"OZN-4N-elt.text" = "Contact us";
+
+/* Class = "UILabel"; text = "التكلفة الاجمالية"; ObjectID = "Ouq-8C-BhP"; */
+"Ouq-8C-BhP.text" = "Total cost";
+
+/* Class = "UILabel"; text = "عدد الأشخاص"; ObjectID = "OyZ-o8-gNA"; */
+"OyZ-o8-gNA.text" = "No. persons";
+
+/* Class = "UILabel"; text = "هيئة الترفيه السعودية"; ObjectID = "P8f-gI-si0"; */
+"P8f-gI-si0.text" = "";
+
+/* Class = "UILabel"; text = "مسح الكود"; ObjectID = "PEs-gN-68X"; */
+"PEs-gN-68X.text" = "Scan QR";
+
+/* Class = "UILabel"; text = "تعديل كلمة المرور"; ObjectID = "Pg6-PW-jTw"; */
+"Pg6-PW-jTw.text" = "Update password";
+
+/* Class = "UILabel"; text = "قبول الطلب"; ObjectID = "QJW-Qz-maa"; */
+"QJW-Qz-maa.text" = "Accept reservation";
+
+/* Class = "UILabel"; text = "لا يوجد أي تقييمات"; ObjectID = "QpG-8L-ZTm"; */
+"QpG-8L-ZTm.text" = "No any ratings";
+
+/* Class = "UILabel"; text = "25 "; ObjectID = "Rol-CD-QQK"; */
+"Rol-CD-QQK.text" = "";
+
+/* Class = "UILabel"; text = "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى"; ObjectID = "SFn-7b-Ae6"; */
+"SFn-7b-Ae6.text" = "";
+
+/* Class = "UILabel"; text = "أخر الخدمات المضافة"; ObjectID = "T8g-6e-rrf"; */
+"T8g-6e-rrf.text" = "Last Services";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "TS2-Ec-6CU"; */
+"TS2-Ec-6CU.text" = "";
+
+/* Class = "UILabel"; text = "  250.05 ريال"; ObjectID = "Ui2-5o-Xbd"; */
+"Ui2-5o-Xbd.text" = "";
+
+/* Class = "UILabel"; text = "الخدمات : 25"; ObjectID = "Vkn-b3-BeR"; */
+"Vkn-b3-BeR.text" = "Services :";
+
+/* Class = "UILabel"; text = "الأحد 28.05.2"020 | 08:30"; ObjectID = "W1H-PW-ONd"; */
+"W1H-PW-ONd.text" = "";
+
+/* Class = "UILabel"; text = "لا يوجد أي  خدمات"; ObjectID = "Wud-X4-vAg"; */
+"Wud-X4-vAg.text" = "No any services";
+
+/* Class = "UILabel"; text = "مسح الكود"; ObjectID = "Wyb-P3-vIY"; */
+"Wyb-P3-vIY.text" = "Scan QR";
+
+/* Class = "UILabel"; text = "حسن إبراهيم جرجاوي"; ObjectID = "XQP-ZY-zDw"; */
+"XQP-ZY-zDw.text" = "";
+
+/* Class = "UILabel"; text = "الســابقة (25)"; ObjectID = "XS0-SG-e7u"; */
+"XS0-SG-e7u.text" = "Previous";
+
+/* Class = "UILabel"; text = "عن نزهة"; ObjectID = "Xnq-Im-ovG"; */
+"Xnq-Im-ovG.text" = "About Nozha";
+
+/* Class = "UILabel"; text = "العربيـة"; ObjectID = "Xpy-X9-gnO"; */
+"Xpy-X9-gnO.text" = "English";
+
+/* Class = "UILabel"; text = "إلغاء الطلب"; ObjectID = "Yf5-wA-nWW"; */
+"Yf5-wA-nWW.text" = "Cancel reservation";
+
+/* Class = "UILabel"; text = "سعر الخدمة"; ObjectID = "ZUq-Mp-y8j"; */
+"ZUq-Mp-y8j.text" = "Service price";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "ZmY-vZ-CJS"; */
+"ZmY-vZ-CJS.text" = "";
+
+/* Class = "UILabel"; text = "250 ريال"; ObjectID = "a31-6F-RsM"; */
+"a31-6F-RsM.text" = "";
+
+/* Class = "UILabel"; text = "تفاصيل  الحجز"; ObjectID = "aDh-SJ-UDF"; */
+"aDh-SJ-UDF.text" = "Reservation details";
+
+/* Class = "UILabel"; text = "رحلة في ربوع البادية و الركوب على الجمال"; ObjectID = "aMe-a5-z7L"; */
+"aMe-a5-z7L.text" = "";
+
+/* Class = "UILabel"; text = "الطلب #123456"; ObjectID = "ajc-ED-rYS"; */
+"ajc-ED-rYS.text" = "";
+
+/* Class = "UILabel"; text = "المكان"; ObjectID = "atR-gX-Hkp"; */
+"atR-gX-Hkp.text" = "Place";
+
+/* Class = "UILabel"; text = "هيئة الترفيه السعودية"; ObjectID = "bIN-jJ-HRE"; */
+"bIN-jJ-HRE.text" = "";
+
+/* Class = "UILabel"; text = "رحلة في ربوع البادية و الركوب على الجمال"; ObjectID = "bnz-CT-enz"; */
+"bnz-CT-enz.text" = "";
+
+/* Class = "UILabel"; text = "05:30"; ObjectID = "crd-co-fUJ"; */
+"crd-co-fUJ.text" = "";
+
+/* Class = "UILabel"; text = "إلغاء الطلب"; ObjectID = "cwy-qy-EkG"; */
+"cwy-qy-EkG.text" = "Cancel reservation";
+
+/* Class = "UILabel"; text = "الحجوزات (25)"; ObjectID = "d1W-72-VPi"; */
+"d1W-72-VPi.text" = "All attendance";
+
+/* Class = "UILabel"; text = "الرصيد"; ObjectID = "dAp-hI-E62"; */
+"dAp-hI-E62.text" = "Wallet";
+
+/* Class = "UILabel"; text = "الحجوزات: 25"; ObjectID = "dAt-is-XYA"; */
+"dAt-is-XYA.text" = "Reservations";
+
+/* Class = "UILabel"; text = "قيد الانتظار"; ObjectID = "dFQ-H5-soZ"; */
+"dFQ-H5-soZ.text" = "Pending";
+
+/* Class = "UIButton"; normalTitle = "مطالعة كافة الحجوزات"; ObjectID = "dZa-F4-cJi"; */
+"dZa-F4-cJi.normalTitle" = "Show all reservations";
+
+/* Class = "UILabel"; text = "سعر الخدمة"; ObjectID = "e0d-Wp-m2q"; */
+"e0d-Wp-m2q.text" = "Service price";
+
+/* Class = "UILabel"; text = "الرئيسية"; ObjectID = "eSE-QE-Jvr"; */
+"eSE-QE-Jvr.text" = "Home";
+
+/* Class = "UILabel"; text = "حسن الجرجاوي"; ObjectID = "eT9-NZ-w4P"; */
+"eT9-NZ-w4P.text" = "";
+
+/* Class = "UILabel"; text = "مسح الكود"; ObjectID = "eTV-7W-oz5"; */
+"eTV-7W-oz5.text" = "Sacn QR";
+
+/* Class = "UILabel"; text = "لا يوجد أي  إشعارات جديدة"; ObjectID = "efQ-OE-L0k"; */
+"efQ-OE-L0k.text" = "No new notifications";
+
+/* Class = "UILabel"; text = "ضريبة القيمة المضافة"; ObjectID = "ewA-VB-5dZ"; */
+"ewA-VB-5dZ.text" = "Tax";
+
+/* Class = "UITextField"; placeholder = "... ابحث عن رقم الحجز"; ObjectID = "f1H-ig-leT"; */
+"f1H-ig-leT.placeholder" = "Search reservation no. ....";
+
+/* Class = "UILabel"; text = "تعديل الحساب"; ObjectID = "f6g-Uq-3Vh"; */
+"f6g-Uq-3Vh.text" = "Update account";
+
+/* Class = "UILabel"; text = "التقييمات"; ObjectID = "f8z-OY-ft4"; */
+"f8z-OY-ft4.text" = "Ratings";
+
+/* Class = "UILabel"; text = "سياسة الاستخدام"; ObjectID = "fBx-eh-I2P"; */
+"fBx-eh-I2P.text" = "Usage policy";
+
+/* Class = "UILabel"; text = "عدد الأشخاص: 25"; ObjectID = "fR5-Eq-dv4"; */
+"fR5-Eq-dv4.text" = "No. persons";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "fh1-6c-6PO"; */
+"fh1-6c-6PO.text" = "";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "fws-1L-llF"; */
+"fws-1L-llF.text" = "";
+
+/* Class = "UILabel"; text = "SR"; ObjectID = "gAm-cW-uTg"; */
+"gAm-cW-uTg.text" = "";
+
+/* Class = "UILabel"; text = "قائمة الحجوزات"; ObjectID = "gd2-F2-kvE"; */
+"gd2-F2-kvE.text" = "Reservations List";
+
+/* Class = "UILabel"; text = "نموذج من السؤال الشائع الأول المدخل من الادارة"; ObjectID = "glI-70-zvx"; */
+"glI-70-zvx.text" ="";
+
+/* Class = "UILabel"; text = "  250.05 ريال"; ObjectID = "gmd-7V-oS9"; */
+"gmd-7V-oS9.text" = "";
+
+/* Class = "UILabel"; text = "لا يوجد أي حجوزات"; ObjectID = "gwQ-f4-LWQ"; */
+"gwQ-f4-LWQ.text" = "No any reservations";
+
+/* Class = "UILabel"; text = "عدد الأشخاص"; ObjectID = "hEU-gp-9at"; */
+"hEU-gp-9at.text" = "No. persons";
+
+/* Class = "UILabel"; text = "الحجوزات (25)"; ObjectID = "hgM-07-k8n"; */
+"hgM-07-k8n.text" = "All attendance";
+
+/* Class = "UILabel"; text = "التقييمات"; ObjectID = "hxF-Tv-tSY"; */
+"hxF-Tv-tSY.text" = "Ratings";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "i75-A4-DR2"; */
+"i75-A4-DR2.text" = "";
+
+/* Class = "UIButton"; normalTitle = "    إضافة خدمة جديدة      "; ObjectID = "ieW-Bh-h9v"; */
+"ieW-Bh-h9v.normalTitle" = "   Add new service   ";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "ino-cM-g8C"; */
+"ino-cM-g8C.text" = "";
+
+/* Class = "UILabel"; text = "4.5 "; ObjectID = "jam-Pk-cBw"; */
+"jam-Pk-cBw.text" = " ";
+
+/* Class = "UILabel"; text = "كافــة الحجوزات"; ObjectID = "jas-zl-Dco"; */
+"jas-zl-Dco.text" = "All reservations";
+
+/* Class = "UILabel"; text = "الإشعارات"; ObjectID = "jyb-Og-1T4"; */
+"jyb-Og-1T4.text" = "Notifications";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "kXl-Y4-dtM"; */
+"kXl-Y4-dtM.text" = "";
+
+/* Class = "UIButton"; normalTitle = "حجز الخدمة"; ObjectID = "lTT-74-Opb"; */
+"lTT-74-Opb.normalTitle" = "Reserve service";
+
+/* Class = "UILabel"; text = "هيئة الترفيه السعودية"; ObjectID = "mRP-l4-b8Y"; */
+"mRP-l4-b8Y.text" = "";
+
+/* Class = "UILabel"; text = "تصفح مرة أخرى في وقت اخر"; ObjectID = "mg9-hC-rEd"; */
+"mg9-hC-rEd.text" = "Browse at another time";
+
+/* Class = "UILabel"; text = "رحلة في ربوع البادية و الركوب على الجمال"; ObjectID = "my8-CF-zCC"; */
+"my8-CF-zCC.text" = "";
+
+/* Class = "UILabel"; text = "4.5 (5201)"; ObjectID = "nhM-Q9-ssj"; */
+"nhM-Q9-ssj.text" = "";
+
+/* Class = "UILabel"; text = "4.5  (250 تقييم)"; ObjectID = "o8j-Yn-VD0"; */
+"o8j-Yn-VD0.text" = "";
+
+/* Class = "UILabel"; text = "الحجوزات"; ObjectID = "oIt-nH-mvu"; */
+"oIt-nH-mvu.text" = "Reservations";
+
+/* Class = "UILabel"; text = "30"; ObjectID = "oNg-Bw-vhg"; */
+"oNg-Bw-vhg.text" = "";
+
+/* Class = "UILabel"; text = "تصفح مرة أخرى في وقت اخر"; ObjectID = "oZV-Jh-s1n"; */
+"oZV-Jh-s1n.text" = "Browse at another time";
+
+/* Class = "UILabel"; text = "30"; ObjectID = "otN-hJ-n8k"; */
+"otN-hJ-n8k.text" = "";
+
+/* Class = "UILabel"; text = "30"; ObjectID = "ou0-nN-2jY"; */
+"ou0-nN-2jY.text" = "";
+
+/* Class = "UILabel"; text = "30 ريال"; ObjectID = "pKH-2O-WKS"; */
+"pKH-2O-WKS.text" = "";
+
+/* Class = "UILabel"; text = "تغيير اللغـــة"; ObjectID = "pQP-6B-c8a"; */
+"pQP-6B-c8a.text" = "Change Language";
+
+/* Class = "UILabel"; text = "مرحباً محمد, قم بإدارة خدماتك مباشرة"; ObjectID = "pf8-DD-KP6"; */
+"pf8-DD-KP6.text" = "";
+
+/* Class = "UILabel"; text = "محمد خالد الأحمد"; ObjectID = "qBp-uS-Oez"; */
+"qBp-uS-Oez.text" = "";
+
+/* Class = "UILabel"; text = "الحجز 420015"; ObjectID = "qMO-La-Gqe"; */
+"qMO-La-Gqe.text" = "Reservations";
+
+/* Class = "UILabel"; text = "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل "; ObjectID = "qPs-Ht-uHs"; */
+"qPs-Ht-uHs.text" = "";
+
+/* Class = "UILabel"; text = "حجز عميل"; ObjectID = "qS9-F1-ADm"; */
+"qS9-F1-ADm.text" = "Customer reservation";
+
+/* Class = "UILabel"; text = "تقييمات العملاء"; ObjectID = "qXk-jB-kbu"; */
+"qXk-jB-kbu.text" = "Customers Ratings";
+
+/* Class = "UILabel"; text = "اضبط الكاميرا على الكود مباشرة"; ObjectID = "qaf-yz-m3r"; */
+"qaf-yz-m3r.text" = "Set the camera to the code directly";
+
+/* Class = "UILabel"; text = "إيقاف مؤقت"; ObjectID = "rOe-Qa-hnF"; */
+"rOe-Qa-hnF.text" = "Pause";
+
+/* Class = "UILabel"; text = "ملخص فاتورة الحجز"; ObjectID = "reM-1J-CFg"; */
+"reM-1J-CFg.text" = "Reservation Invoice Summary";
+
+/* Class = "UILabel"; text = "4.5 "; ObjectID = "rl9-jc-QNX"; */
+"rl9-jc-QNX.text" = " ";
+
+/* Class = "UILabel"; text = "سعر الخدمة"; ObjectID = "sa9-b8-4Lc"; */
+"sa9-b8-4Lc.text" = "Service price";
+
+/* Class = "UILabel"; text = "30"; ObjectID = "spc-sZ-cz6"; */
+"spc-sZ-cz6.text" = "";
+
+/* Class = "UILabel"; text = "احدث الحجوزات"; ObjectID = "st6-fH-DCc"; */
+"st6-fH-DCc.text" = "New reservations";
+
+/* Class = "UILabel"; text = "  250.05 ريال"; ObjectID = "tLn-s1-zK5"; */
+"tLn-s1-zK5.text" = "";
+
+/* Class = "UILabel"; text = "حذف الخدمة"; ObjectID = "tPx-i5-4en"; */
+"tPx-i5-4en.text" = "Delete reservation";
+
+/* Class = "UILabel"; text = "الحساب"; ObjectID = "tQt-rk-jc0"; */
+"tQt-rk-jc0.text" = "Account";
+
+/* Class = "UILabel"; text = "25.05.2020, 08:30"; ObjectID = "tci-hM-wdh"; */
+"tci-hM-wdh.text" = "";
+
+/* Class = "UILabel"; text = "محمد خالد الأحمد"; ObjectID = "u1m-JK-Q2f"; */
+"u1m-JK-Q2f.text" = "";
+
+/* Class = "UILabel"; text = "25 يوم"; ObjectID = "vGs-07-T0p"; */
+"vGs-07-T0p.text" = "Days";
+
+/* Class = "UILabel"; text = "السياحة و السفر"; ObjectID = "vdx-7Q-avJ"; */
+"vdx-7Q-avJ.text" = "";
+
+/* Class = "UILabel"; text = "25.05.2020, 18:30"; ObjectID = "w0b-lG-L1R"; */
+"w0b-lG-L1R.text" = "";
+
+/* Class = "UILabel"; text = "عدد الحجوزات"; ObjectID = "w9V-6c-01G"; */
+"w9V-6c-01G.text" = "No. reservations";
+
+/* Class = "UILabel"; text = "سعر الخدمة"; ObjectID = "wH2-HD-Z7o"; */
+"wH2-HD-Z7o.text" = "Service price";
+
+/* Class = "UILabel"; text = "الرياض"; ObjectID = "wZ3-Va-fMp"; */
+"wZ3-Va-fMp.text" = "";
+
+/* Class = "UILabel"; text = "رحلة في ربوع البادية و الركوب على الجمال"; ObjectID = "xlC-Bh-b1w"; */
+"xlC-Bh-b1w.text" = "";
+
+/* Class = "UILabel"; text = "تم قبول الحجز, يرجى تأكيد الدفع الان"; ObjectID = "y9y-Uc-Sdz"; */
+"y9y-Uc-Sdz.text" = "reservation accepted, please confirm payment";
+
+/* Class = "UILabel"; text = "رحلة في ربوع البادية و الركوب على الجمال"; ObjectID = "yA4-PQ-48B"; */
+"yA4-PQ-48B.text" = "";
+
+/* Class = "UILabel"; text = "  250.05 ريال"; ObjectID = "yBD-ej-rYk"; */
+"yBD-ej-rYk.text" = "";
+
+/* Class = "UILabel"; text = "الحجوزات السابقة"; ObjectID = "yG4-9u-yCv"; */
+"yG4-9u-yCv.text" = "Previous reservations";
+
+/* Class = "UILabel"; text = "حجوزات الاسبوع"; ObjectID = "zJG-UK-Z8M"; */
+"zJG-UK-Z8M.text" = "Week reservations";
+
+/* Class = "UILabel"; text = "30"; ObjectID = "zJm-Uf-sX2"; */
+"zJm-Uf-sX2.text" = "";
+
+/* Class = "UILabel"; text = "السياحة والسفر"; ObjectID = "zyJ-MY-4TM"; */
+"zyJ-MY-4TM.text" = "";
+"zTg-oD-vF2.text" = "Scan QR";
+"L2V-QV-jNe.text" =  "No any ratings";
+"zVv-9H-LXT.text" =  "Browse at next time";
+"5JL-rt-h8f.normalTitle" = "Show video";
+"Xb9-iR-3bI.normalTitle" = "press here";
+"mEa-OJ-kZm.text" = "Activity info";
+"lNz-be-uAv.text" = "Activity location";
+"y6f-dZ-Mws.text" = "No any reservations";
+"Neh-WG-Ws2.normalTitle" = "Login";

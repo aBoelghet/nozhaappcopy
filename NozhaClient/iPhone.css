@@ -1,0 +1,21 @@
+
+
+
+
+@font-face
+{
+    font-family: 'DINNextLTArabic-Regular';
+    src: local('DINNextLTArabic-Regular'),url('DINNextLTArabic-Regular.ttf') format('opentype');
+}
+
+
+body
+{
+    font-family: 'DINNextLTArabic-Regular';
+    font-size: 14px;
+    font-weight: normal;
+}
+
+
+
+

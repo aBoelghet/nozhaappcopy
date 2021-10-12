@@ -1,0 +1,129 @@
+
+/* Class = "UIButton"; normalTitle = "حفظ"; ObjectID = "1FL-C7-9bi"; */
+"1FL-C7-9bi.normalTitle" = "حفظ";
+
+/* Class = "UILabel"; text = "يمكنك تغيير المدينة لاحقا من اعدادات الحساب"; ObjectID = "1Qz-RS-0Y0"; */
+"1Qz-RS-0Y0.text" = "يمكنك تغيير المدينة لاحقا من اعدادات الحساب";
+
+/* Class = "UITextField"; placeholder = "إعادة تعيين كلمة المرور"; ObjectID = "2bT-LU-vtU"; */
+"2bT-LU-vtU.placeholder" = "إعادة تعيين كلمة المرور";
+
+/* Class = "UIButton"; normalTitle = "التالي"; ObjectID = "4W6-jA-BN5"; */
+"4W6-jA-BN5.normalTitle" = "التالي";
+
+/* Class = "UITextField"; placeholder = " البريد الالكتروني"; ObjectID = "4rk-GO-WUG"; */
+"4rk-GO-WUG.placeholder" = " البريد الالكتروني";
+
+/* Class = "UITextField"; placeholder = "رقم الهوية"; ObjectID = "6Gj-rQ-z7R"; */
+"6Gj-rQ-z7R.placeholder" = "رقم الهوية";
+
+/* Class = "UILabel"; text = "انضم كمزود خدمة"; ObjectID = "7TY-Oi-ceV"; */
+"7TY-Oi-ceV.text" = "انضم كمزود خدمة";
+
+/* Class = "UITextField"; placeholder = "رقم الهاتف"; ObjectID = "8Gk-e3-q45"; */
+"8Gk-e3-q45.placeholder" = "رقم الجوال";
+
+/* Class = "UIButton"; normalTitle = "سياسة استخدام"; ObjectID = "8Uo-QC-g53"; */
+"8Uo-QC-g53.normalTitle" = "سياسة استخدام";
+
+/* Class = "UIButton"; normalTitle = "هل تود الانضمام كمنظم فعاليات ؟ "; ObjectID = "9Iq-kY-jq0"; */
+"9Iq-kY-jq0.normalTitle" = "هل تود الانضمام كمنظم فعاليات ؟ ";
+
+/* Class = "UIButton"; normalTitle = "انضم الان"; ObjectID = "9Xo-nU-NH2"; */
+"9Xo-nU-NH2.normalTitle" = "انضم الان";
+
+/* Class = "UIButton"; normalTitle = "بنت"; ObjectID = "AaZ-5V-qx5"; */
+"AaZ-5V-qx5.normalTitle" = "بنت";
+
+/* Class = "UITextField"; placeholder = "رقم الهاتف او البريد الالكتروني"; ObjectID = "DZf-Hr-Ibf"; */
+"DZf-Hr-Ibf.placeholder" = "رقم الجوال او البريد الالكتروني";
+
+/* Class = "UILabel"; text = "أدخل البريد الالكتروني لارسال كود التعيين"; ObjectID = "ETs-0e-PYy"; */
+"ETs-0e-PYy.text" = "أدخل البريد الالكتروني لارسال كود التعيين";
+
+/* Class = "UIButton"; normalTitle = "أوافق على"; ObjectID = "Egt-CN-LJJ"; */
+"Egt-CN-LJJ.normalTitle" = "أوافق على";
+
+/* Class = "UILabel"; text = "بنضبطك بأقرب الفعاليات اللي\nحواليك"; ObjectID = "Jcb-KG-LAJ"; */
+"Jcb-KG-LAJ.text" = "بنضبطك بأقرب الفعاليات اللي\nحواليك";
+
+/* Class = "UIButton"; normalTitle = "تخطي"; ObjectID = "Jn6-Rh-sRz"; */
+"Jn6-Rh-sRz.normalTitle" = "تخطي";
+
+/* Class = "UIButton"; normalTitle = "ولد"; ObjectID = "KVP-qO-19X"; */
+"KVP-qO-19X.normalTitle" = "ولد";
+
+/* Class = "UITextField"; placeholder = "كلمة المرور"; ObjectID = "L92-eU-mPd"; */
+"L92-eU-mPd.placeholder" = "كلمة المرور";
+
+/* Class = "UITextField"; placeholder = "الإسم كاملاً"; ObjectID = "LWg-Vt-u3Q"; */
+"LWg-Vt-u3Q.placeholder" = "الإسم كاملاً";
+
+/* Class = "UITextField"; placeholder = "رقم الهاتف"; ObjectID = "MDA-HS-BAM"; */
+"MDA-HS-BAM.placeholder" = "رقم الجوال";
+
+/* Class = "UILabel"; text = "نسيت كلمة المرور"; ObjectID = "Me5-6w-eo5"; */
+"Me5-6w-eo5.text" = "نسيت كلمة المرور";
+
+/* Class = "UIButton"; normalTitle = " تطبيق نزهة"; ObjectID = "OJp-Gs-i74"; */
+"OJp-Gs-i74.normalTitle" = " في تطبيق نزهة";
+
+/* Class = "UITextField"; placeholder = "كلمة المرور الجديدة"; ObjectID = "S7b-ni-kDF"; */
+"S7b-ni-kDF.placeholder" = "كلمة المرور الجديدة";
+
+/* Class = "UIButton"; normalTitle = "التالي"; ObjectID = "TAT-Es-ifI"; */
+"TAT-Es-ifI.normalTitle" = "التالي";
+
+/* Class = "UILabel"; text = "أدخل البريد الالكتروني لارسال كود التعيين"; ObjectID = "U7W-2f-P3w"; */
+"U7W-2f-P3w.text" = "أدخل البريد الالكتروني لارسال كود التعيين";
+
+/* Class = "UIButton"; normalTitle = "مستخدم جديد"; ObjectID = "b07-X4-zCC"; */
+"b07-X4-zCC.normalTitle" = "مستخدم جديد";
+
+/* Class = "UIButton"; normalTitle = "التالي"; ObjectID = "b1c-0z-4rL"; */
+"b1c-0z-4rL.normalTitle" = "التالي";
+
+/* Class = "UIButton"; normalTitle = "ولد"; ObjectID = "bOR-vb-Zw2"; */
+"bOR-vb-Zw2.normalTitle" = "ولد";
+
+/* Class = "UIButton"; normalTitle = "التالي"; ObjectID = "dXC-5h-zqQ"; */
+"dXC-5h-zqQ.normalTitle" = "التالي";
+
+/* Class = "UILabel"; text = "مكة المكرمة"; ObjectID = "eqN-Zw-hhd"; */
+"eqN-Zw-hhd.text" = "مكة المكرمة";
+
+/* Class = "UILabel"; text = "وين ساكن؟"; ObjectID = "fkP-0k-f3I"; */
+"fkP-0k-f3I.text" = "وين ساكن؟";
+
+/* Class = "UIButton"; normalTitle = "بنت"; ObjectID = "h9Q-fA-Jud"; */
+"h9Q-fA-Jud.normalTitle" = "بنت";
+
+/* Class = "UILabel"; text = "نسيت كلمة المرور"; ObjectID = "jRO-0j-qcL"; */
+"jRO-0j-qcL.text" = "نسيت كلمة المرور";
+
+/* Class = "UITextField"; placeholder = "الإسم كاملاً"; ObjectID = "lYw-tv-ftd"; */
+"lYw-tv-ftd.placeholder" = "الإسم كاملاً";
+
+/* Class = "UIButton"; normalTitle = "تسجيل الدخول"; ObjectID = "ljE-dj-DuH"; */
+"ljE-dj-DuH.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UIButton"; normalTitle = "تسجيل الدخول"; ObjectID = "nRi-ep-xus"; */
+"nRi-ep-xus.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UITextField"; placeholder = "كلمة المرور"; ObjectID = "oFq-Oz-akH"; */
+"oFq-Oz-akH.placeholder" = "كلمة المرور";
+
+/* Class = "UIButton"; normalTitle = "هل نسيت كلمة المرور ؟ "; ObjectID = "qDX-hP-hLP"; */
+"qDX-hP-hLP.normalTitle" = "هل نسيت كلمة المرور ؟ ";
+
+/* Class = "UILabel"; text = "اضف كافة البيانات للانضمام الى نزهة"; ObjectID = "s4V-4S-6qZ"; */
+"s4V-4S-6qZ.text" = "اضف كافة البيانات للانضمام الى نزهة";
+
+/* Class = "UITextField"; placeholder = " البريد الالكتروني"; ObjectID = "uq1-dZ-LJ6"; */
+"uq1-dZ-LJ6.placeholder" = " البريد الالكتروني";
+
+/* Class = "UITextField"; placeholder = " البريد الالكتروني"; ObjectID = "v9a-op-Js5"; */
+"v9a-op-Js5.placeholder" = " البريد الالكتروني";
+
+/* Class = "UITextField"; placeholder = "كلمة المرور"; ObjectID = "wSc-YA-WZd"; */
+"wSc-YA-WZd.placeholder" = "كلمة المرور";

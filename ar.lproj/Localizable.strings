@@ -1,0 +1,102 @@
+/* 
+  Localizable.strings
+  NozhaClient
+
+  Created by mac book air on 1/21/21.
+  
+*/
+
+"Logout" = "تسجيل الخروج";
+"Login" = "تسجيل الدخول";
+"Do you want signout?" = "هل تريد تسجيل الخروج ؟";
+
+"Please  check your internet connection" = "الرجاء تحقق من اتصالك بالانترنت";
+"Connection Error" = "خطأ في الإتصال";
+"Retry" = "اعادة المحاولة";
+
+"Ok" = "موافق";
+"No" = "لا";
+
+"You must enter valid mobile number" = "يجب إدخال رقم الجوال بشكل صحيح";
+"You must enter valid mobile number/ email" = "يجب إدخال رقم الجوال أو البريد الإلكتروني بشكل صحيح";
+"You must enter password" = "يجب إدخال كلمة المرور";
+"Password less than 6 characters" = "كلمة المرور أقل من  6 خانات";
+"You must enter valid email" = "يجب إدخال البريد الإلكتروني بشكل صحيح";
+"You must enter valid code" = "يجب إدخال رمز التحقق بشكل صحيح";
+"Passwords mismatch" = "كلمة المرور غير متوافقة";
+
+"Enter code sent to:" = "أدخل الكود المرسل الى";
+"You must enter full name" = "يجب إدخال الإسم كاملاَ";
+"Name less than 7 characters" = "الإسم أقل من ٧ خانات";
+
+"Tamween Plus" = "تموين بلس";
+"Away from you" = "يبعد عنك";
+"Away from you 0 min" = "يبعد عنك 0 دقيقة";
+"min" = "دقيقة";
+"KM" = "كم";
+"Please select product size" = "الرجاء تحديد كمية المنتج";
+"Sorry this product not found at your cart" = "عذراً , هذا المنتج غير مضاف في السلة";
+"Order" = "الطلب";
+"You dont have whatsapp app" = "ليس لديك تطبيق الواتس أب";
+"You must enter message" = "يجب إضافة نص الرسالة";
+"All" = "الكل";
+"Empty cart" = "تفريغ محتوى السلة";
+"Cart contian diffrent store, would you like to empty it?" = "تحتوي السلة علي منتجات من متجرآخر , هل تود بإفراغ السلة؟";
+"You must select category" = "يجب إختيار التصنيف";
+"You must enter account name" = "يجب إدخال إسم الحساب";
+"You must enter bank name" = "يجب  إدخال إسم البنك";
+"You must enter account number" = "يجب ادخال رقم الحساب";
+"You must enter market name" = "يجب إدخال إسم المتجر";
+"You must attachment photo" = "يجب إرفاق صورة المتجر";
+"You must enter iban number" = "يجب إدخال رقم الأيبان";
+"Choose way :" = "طريقة الإختيار :";
+"You must locate market location" = "يجب تحديد موقع المتجر";
+"Camera" = "الكاميرا";
+"Album" = "الالبوم";
+"Move" = "إنتقـال";
+"Edit" = "تعديـل";
+"Delete" = "حذف";
+"Cancel" = "إلغـاء";
+"Browse stores and add a list of your favorite products." = "تصفح المتاجر و اضف قائمة منتجاتك المفضلة";
+"Favorite is currently empty." = "قائمة المفضلة فارغة حالياً";
+"You should login to browse favouraite list." = "يجب عليك تسجيل الدخول من أجل عرض المنتجات في المفضلة";
+"Write message details" = "أكتب تفاصيل الرسالة ";
+"You must enter delivary time" = "يجب تحديد وقت التوصيل";
+"Rate" = "تقييم";
+"Choose" = "اختر";
+"Products" = "المنتجات";
+"No Products" = "عدد المنتجات";
+"You should add coupon code" = "يجب إضافة كود الكوبون";
+"You must enter first name" = "يجب إدخال الاسم الأول والأخير";
+"Minimume cart total is" = "يجب أن يكون مجموع السلة أكبر من ";
+"Other" = "غير ذلك";
+"Work" = "العمل";
+"Home" = "المنزل";
+"You must add your rate" = "يجب إضافة التقييم !";
+"No order notes" = "لا يوجد ملاحظات علي الطلب";
+"Agree usage policy" = "الموافقة على سياسة الإستخدام";
+"Today Reservations:" = "حجوزات اليوم : ";
+"Welcome" = " مرحبا";
+"Manage youe services directly" = "قم بإداة خدماتك مباشرة";
+"Reservations" = "الحجوزات";
+"Services" = "الخدمات";
+"Current" = "الحالية";
+"Previous" = "السابقة";
+"Accept order" = "قبول الطلب";
+"Confirm attendance" = "تأكيد الحضور";
+"Offers & Srvice" = "عرض و خدمة";
+"Near of you activities" = "فعاليات و عروض قريبة منك";
+"Most ordered activities" = "الفعاليات الأكثر طلباً";
+"you must be logged in to view services in favorites" = "يجب عليك تسجيل الدخول من اجل عرض الخدمات في المفضلة";
+"You must be logged to browse reservations" = "يجب عليك تسجيل الدخول من اجل عرض الحجوزات ";
+"Current Reservations" = "الحجوزات الحالية";
+"Previou Reservations" = "الحجوزات السابقة";
+"Messaging us by" = ":راسلنا عبر ";
+"Contact us " = ":اتصل بنا";
+"Service details" = "تفاصيل الرحلة";
+"Reviews" = "التقييمات";
+"No services in favorites" = "لا يوجد أي خدمات في المفضلة";
+"No. persons" = "عدد الأشخاص";
+"You must enter persons number" = "يجب إدخال عدد الأشخاص";
+"Reservation :" = "الحجز :";
+"You must add your rate" = "يجب أن تضيف تقييمك الخاص";

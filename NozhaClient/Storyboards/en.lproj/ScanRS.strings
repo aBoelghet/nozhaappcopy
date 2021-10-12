@@ -1,0 +1,80 @@
+
+/* Class = "UILabel"; text = "١٢٣٤٥"; ObjectID = "0dI-kA-jtH"; */
+"0dI-kA-jtH.text" = "";
+
+/* Class = "UILabel"; text = "كود غير صالح\n"; ObjectID = "3Nz-pA-Lo3"; */
+"3Nz-pA-Lo3.text" = "Invalid code \n";
+
+/* Class = "UILabel"; text = "طلب مكتمل\n"; ObjectID = "55n-K6-1dK"; */
+"55n-K6-1dK.text" = "Complete reservation\n";
+
+/* Class = "UILabel"; text = "#"; ObjectID = "5jS-qI-CQk"; */
+"5jS-qI-CQk.text" = "#";
+
+/* Class = "UIButton"; normalTitle = "أعادة المحاولة"; ObjectID = "9Da-yQ-s4G"; */
+"9Da-yQ-s4G.normalTitle" = "Try again";
+
+/* Class = "UILabel"; text = "  250.05 ريال"; ObjectID = "ANq-kg-Pcx"; */
+"ANq-kg-Pcx.text" = "";
+
+/* Class = "UILabel"; text = "عدد الأشخاص"; ObjectID = "Ax0-Vx-iis"; */
+"Ax0-Vx-iis.text" = "No. of persons ";
+
+/* Class = "UILabel"; text = "تاريخ الرحلة"; ObjectID = "EWh-xt-3J4"; */
+"EWh-xt-3J4.text" = "Event Date";
+
+/* Class = "UILabel"; text = "رقم الحجز"; ObjectID = "H2o-FW-Ukn"; */
+"H2o-FW-Ukn.text" = "Reservation No.";
+
+/* Class = "UILabel"; text = "رقم الحجز"; ObjectID = "J0n-ia-sTu"; */
+"J0n-ia-sTu.text" = "Reservation No.";
+
+/* Class = "UILabel"; text = "  250.05 ريال"; ObjectID = "KAA-lF-8fn"; */
+"KAA-lF-8fn.text" = "";
+
+/* Class = "UILabel"; text = "لا يوجد حجز "; ObjectID = "P3Z-Sm-OLL"; */
+"P3Z-Sm-OLL.text" = "No any reservation";
+
+/* Class = "UILabel"; text = "30"; ObjectID = "SHC-yP-hzG"; */
+"SHC-yP-hzG.text" = "";
+
+/* Class = "UILabel"; text = "هيئة الترفيه السعودية"; ObjectID = "UkT-IN-yUU"; */
+"UkT-IN-yUU.text" = "";
+
+/* Class = "UIButton"; normalTitle = "تأكيد الحضور"; ObjectID = "UvX-KX-Zun"; */
+"UvX-KX-Zun.normalTitle" = "Confirm attendance";
+
+/* Class = "UILabel"; text = "١٢٣٤٥"; ObjectID = "bK7-r1-14y"; */
+"bK7-r1-14y.text" = "";
+
+/* Class = "UILabel"; text = "يرجى التأكد من بار كود الرحلة و المحاولة مرة أخرى\n"; ObjectID = "dvx-cM-Vrh"; */
+"dvx-cM-Vrh.text" = "Please check the Flight Code Bar and try again \n";
+
+/* Class = "UILabel"; text = "رحلة في ربوع البادية و الركوب على الجمال"; ObjectID = "eJR-6N-nQN"; */
+"eJR-6N-nQN.text" = "";
+
+/* Class = "UILabel"; text = "25.05.2020"; ObjectID = "hrY-aT-HU7"; */
+"hrY-aT-HU7.text" = "";
+
+/* Class = "UILabel"; text = "سعر الخدمة"; ObjectID = "ip8-PU-UP6"; */
+"ip8-PU-UP6.text" = "Service price";
+
+/* Class = "UIButton"; normalTitle = "أعادة المحاولة"; ObjectID = "nRj-Ir-kt0"; */
+"nRj-Ir-kt0.normalTitle" = "Try again";
+
+/* Class = "UILabel"; text = "25.05.2020"; ObjectID = "ntB-3g-3fp"; */
+"ntB-3g-3fp.text" = "";
+
+/* Class = "UILabel"; text = "٢٠-٩-٢٠٢٠"; ObjectID = "pBC-9v-LI4"; */
+"pBC-9v-LI4.text" = "";
+
+/* Class = "UILabel"; text = "التكلفة الاجمالية"; ObjectID = "vqJ-hj-G3d"; */
+"vqJ-hj-G3d.text" = "Total cost";
+
+/* Class = "UILabel"; text = "مسح بار كود الرحلة\n"; ObjectID = "xxj-jn-Do8"; */
+"xxj-jn-Do8.text" = "Scan the trip code bar \n";
+
+/* Class = "UILabel"; text = "الرحلة تمت مسبقاً"; ObjectID = "zP4-Vj-thk"; */
+"zP4-Vj-thk.text" = "The trip is already done";
+"E8N-wv-whW.text" =  "Balance";
+"z5k-x7-TDZ.text" = "Current Balance";

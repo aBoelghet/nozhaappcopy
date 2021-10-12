@@ -1,0 +1,138 @@
+
+/* Class = "UILabel"; text = "إضافة خدمة جديدة"; ObjectID = "1Hc-QR-e5u"; */
+"1Hc-QR-e5u.text" = "Add new service";
+
+/* Class = "UITextField"; placeholder = "سؤال جديد"; ObjectID = "2H8-DQ-aja"; */
+"2H8-DQ-aja.placeholder" = "New question";
+
+/* Class = "UITextField"; placeholder = "المدينة"; ObjectID = "32M-U2-ACo"; */
+"32M-U2-ACo.placeholder" = "City";
+
+/* Class = "UILabel"; text = "مسح الكود"; ObjectID = "4jc-fl-fDv"; */
+"4jc-fl-fDv.text" = "Scan code";
+
+/* Class = "UILabel"; text = "إضافة خدمة جديدة"; ObjectID = "7Ar-Jx-HG7"; */
+"7Ar-Jx-HG7.text" = "Add new service";
+
+/* Class = "UILabel"; text = "أسئلة اختيارية"; ObjectID = "8Pc-GU-svD"; */
+"8Pc-GU-svD.text" = "Optional questions";
+
+/* Class = "UILabel"; text = "سعر الخدمة"; ObjectID = "CCS-5V-ACK"; */
+"CCS-5V-ACK.text" = "Service price";
+
+/* Class = "UIButton"; normalTitle = "حفظ"; ObjectID = "I0Y-Ue-9h7"; */
+"I0Y-Ue-9h7.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "ساعة الإنتهاء"; ObjectID = "Jrh-1f-lCj"; */
+"Jrh-1f-lCj.text" = "End time";
+
+/* Class = "UILabel"; text = "قائمة الحجوزات"; ObjectID = "LAn-kT-t7v"; */
+"LAn-kT-t7v.text" = "Reservations List";
+
+/* Class = "UILabel"; text = "ساعات الخدمة"; ObjectID = "LH6-ww-sUc"; */
+"LH6-ww-sUc.text" = "service hours";
+
+/* Class = "UILabel"; text = "عدد الأشخاص"; ObjectID = "NaS-tw-FHT"; */
+"NaS-tw-FHT.text" = "No. persons";
+
+/* Class = "UIButton"; normalTitle = "التالي"; ObjectID = "OYe-XY-md1"; */
+"OYe-XY-md1.normalTitle" = "Next";
+
+/* Class = "UITextField"; placeholder = "عنوان الخدمة"; ObjectID = "P1p-ci-aiX"; */
+"P1p-ci-aiX.placeholder" = "Service address";
+
+/* Class = "UILabel"; text = "الســابقة (25)"; ObjectID = "Pgq-se-Prm"; */
+"Pgq-se-Prm.text" = "Previous";
+
+/* Class = "UILabel"; text = "رحلة في ربوع البادية و الركوب على الجمال"; ObjectID = "QMy-8w-cPL"; */
+"QMy-8w-cPL.text" = "";
+
+/* Class = "UILabel"; text = "ساعة البدء"; ObjectID = "QTR-gC-KxJ"; */
+"QTR-gC-KxJ.text" = "Strat time";
+
+/* Class = "UIButton"; normalTitle = " سؤال جديد    "; ObjectID = "Qwh-Wh-PpH"; */
+"Qwh-Wh-PpH.normalTitle" = " New question ";
+
+/* Class = "UILabel"; text = "هيئة الترفيه السعودية"; ObjectID = "R5P-8r-8ne"; */
+"R5P-8r-8ne.text" = "";
+
+/* Class = "UILabel"; text = "عنوان الحجز"; ObjectID = "Tdc-uN-dEk"; */
+"Tdc-uN-dEk.text" = "Reservation address";
+
+/* Class = "UIButton"; normalTitle = "حفظ"; ObjectID = "TwL-fb-JuF"; */
+"TwL-fb-JuF.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "  250.05 ريال"; ObjectID = "WUh-dg-x2U"; */
+"WUh-dg-x2U.text" = "";
+
+/* Class = "UITextField"; placeholder = "الجهة المنظمة"; ObjectID = "XEX-Xc-Kl3"; */
+"XEX-Xc-Kl3.placeholder" = "Organiser";
+
+/* Class = "UILabel"; text = "أيام الخدمة"; ObjectID = "YLF-aN-jvy"; */
+"YLF-aN-jvy.text" = "Service days";
+
+/* Class = "UILabel"; text = "المنزل:المنطقة الحمراء, الرياض"; ObjectID = "ZG5-qS-8oD"; */
+"ZG5-qS-8oD.text" = "";
+
+/* Class = "UITextField"; placeholder = "عدد الإشخاص"; ObjectID = "cf4-Uy-avH"; */
+"cf4-Uy-avH.placeholder" = "No persons";
+
+/* Class = "UITextField"; placeholder = "نوع الخدمة"; ObjectID = "dMY-2U-xeD"; */
+"dMY-2U-xeD.placeholder" = "Service type";
+
+/* Class = "UIButton"; normalTitle = "التالي"; ObjectID = "drL-G9-c4X"; */
+"drL-G9-c4X.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "ساعة"; ObjectID = "eKb-fQ-kMg"; */
+"eKb-fQ-kMg.text" = "Hour";
+
+/* Class = "UITextField"; placeholder = "اسقط الموقع على الخريطة"; ObjectID = "exj-eO-qso"; */
+"exj-eO-qso.placeholder" = "Drop the location on the map";
+
+/* Class = "UITextField"; placeholder = "ساعة البدء"; ObjectID = "f8T-h2-Ydf"; */
+"f8T-h2-Ydf.placeholder" = "Start Hour";
+
+/* Class = "UILabel"; text = "ساعة"; ObjectID = "gWI-Sh-rpG"; */
+"gWI-Sh-rpG.text" = "Hour";
+
+/* Class = "UIButton"; normalTitle = "امتلك التصاريح اللازمة لانشاء الفعالية"; ObjectID = "goy-NJ-a70"; */
+"goy-NJ-a70.normalTitle" = "I own the necessary permits to set up the event";
+
+/* Class = "UITextField"; placeholder = "المدة"; ObjectID = "gs9-A0-Z1g"; */
+"gs9-A0-Z1g.placeholder" = "Duration";
+
+/* Class = "UIButton"; normalTitle = "حفظ"; ObjectID = "igW-Ak-D1z"; */
+"igW-Ak-D1z.normalTitle" = "Save";
+
+/* Class = "UITextField"; placeholder = "التصنيف"; ObjectID = "jfD-Qm-RY3"; */
+"jfD-Qm-RY3.placeholder" = "Category";
+
+/* Class = "UITextField"; placeholder = "أيام و ساعات الخدمة"; ObjectID = "jjf-mw-D5t"; */
+"jjf-mw-D5t.placeholder" = "Days & Hours of service";
+
+/* Class = "UILabel"; text = "إضافة خدمة جديدة"; ObjectID = "lO2-kA-2Ld"; */
+"lO2-kA-2Ld.text" = "Add new service";
+
+/* Class = "UILabel"; text = "30"; ObjectID = "nX3-sZ-QdU"; */
+"nX3-sZ-QdU.text" = "";
+
+/* Class = "UILabel"; text = "10:00"; ObjectID = "oGh-TZ-xmi"; */
+"oGh-TZ-xmi.text" = "";
+
+/* Class = "UITextField"; placeholder = "سعر الخدمة"; ObjectID = "qgA-PC-Uea"; */
+"qgA-PC-Uea.placeholder" = "Service price";
+
+/* Class = "UILabel"; text = "الحاليــة ( 250 )"; ObjectID = "r59-MJ-GyY"; */
+"r59-MJ-GyY.text" = "Current";
+
+/* Class = "UITextField"; placeholder = "ساعة الإنتهاء"; ObjectID = "uAo-SD-fKB"; */
+"uAo-SD-fKB.placeholder" = "End Hour";
+
+/* Class = "UILabel"; text = "الموقع الحالي"; ObjectID = "uPp-gp-iBN"; */
+"uPp-gp-iBN.text" ="Current location";
+
+/* Class = "UITextField"; placeholder = "رابط فيديو ( اختياري )"; ObjectID = "uYf-g7-fWn"; */
+"uYf-g7-fWn.placeholder" = "Video url (optional)";
+
+/* Class = "UILabel"; text = "صور الخدمة"; ObjectID = "vqB-BH-Phi"; */
+"vqB-BH-Phi.text" = "Service images";

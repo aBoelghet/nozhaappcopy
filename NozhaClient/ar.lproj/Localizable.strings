@@ -1,0 +1,154 @@
+/* 
+  Localizable.strings
+  NozhaClient
+
+  Created by macbook on 23/02/2021.
+  
+*/
+"Logout" = "تسجيل الخروج";
+"Login" = "تسجيل الدخول";
+"Do you want signout?" = "هل تريد تسجيل الخروج ؟";
+
+"Please  check your internet connection" = "الرجاء تحقق من اتصالك بالانترنت";
+"Connection Error" = "خطأ في الإتصال";
+"Retry" = "اعادة المحاولة";
+
+"Ok" = "موافق";
+"No" = "لا";
+
+"You must enter valid mobile number" = "يجب إدخال رقم الجوال بشكل صحيح";
+"You must enter valid mobile number/ email" = "يجب إدخال رقم الجوال أو البريد الإلكتروني بشكل صحيح";
+"You must enter password" = "يجب إدخال كلمة المرور";
+"Password less than 6 characters" = "كلمة المرور أقل من  6 خانات";
+"You must enter valid email" = "يجب إدخال البريد الإلكتروني بشكل صحيح";
+"You must enter valid code" = "يجب إدخال رمز التحقق بشكل صحيح";
+"Passwords mismatch" = "كلمة المرور غير متوافقة";
+
+"Enter code sent to:" = "أدخل الكود المرسل الى";
+"You must enter full name" = "يجب إدخال الإسم كاملاَ";
+"Name less than 7 characters" = "الإسم أقل من ٧ خانات";
+
+
+"You dont have whatsapp app" = "ليس لديك تطبيق الواتس أب";
+"You must enter message" = "يجب إضافة نص الرسالة";
+"All" = "الكل";
+"Empty cart" = "تفريغ محتوى السلة";
+"Cart contian diffrent store, would you like to empty it?" = "تحتوي السلة علي منتجات من متجرآخر , هل تود بإفراغ السلة؟";
+
+"Choose way :" = "طريقة الإختيار :";
+
+"Camera" = "الكاميرا";
+"Album" = "الالبوم";
+"Move" = "إنتقـال";
+"Edit" = "تعديـل";
+"Delete" = "حذف";
+"Cancel" = "إلغـاء";
+
+"Write message details" = "أدخل الرسالة هنا ...";
+
+"Rate" = "تقييم";
+"Choose" = "اختر";
+"Products" = "المنتجات";
+
+"You must enter first name" = "يجب إدخال الاسم الأول والأخير";
+
+"You must add your rate" = "يجب إضافة التقييم !";
+"No order notes" = "لا يوجد ملاحظات علي الحجز";
+"Agree usage policy" = "الموافقة على سياسة الإستخدام";
+"Today Reservations:" = "حجوزات اليوم : ";
+"Welcome" = " مرحبا";
+"Reservations" = "الحجوزات";
+"Services" = "الخدمات";
+"Current" = "الحالية";
+"Previous" = "السابقة";
+"Accept reservation" = "قبول الحجز";
+"Confirm attendance" = "تأكيد الحضور";
+"Offers & Srvice" = "عرض و خدمة";
+"Near of you activities" = "فعاليات و عروض قريبة منك";
+"Most ordered activities" = "الفعاليات الأكثر طلباً";
+"you must be logged in to view services in favorites" = "يجب عليك تسجيل الدخول من اجل عرض الخدمات في المفضلة";
+"You must be logged to browse reservations" = "يجب عليك تسجيل الدخول من اجل عرض الحجوزات ";
+"Current Reservations" = "الحجوزات الحالية";
+"Previous Reservations" = "الحجوزات السابقة";
+"Messaging us by: " = " راسلنا عبر : ";
+"Contact us: " = "اتصل بنا : ";
+"Service details" = "تفاصيل الرحلة";
+"Reviews" = "التقييمات";
+"No services in favorites" = "لا يوجد أي خدمات في المفضلة";
+"No. persons" = "عدد الأشخاص";
+"You must enter persons number" = "يجب إدخال عدد الأشخاص";
+"Reservation :" = "الحجز :";
+"You must add your rate" = "يجب أن تضيف تقييمك الخاص";
+"You can't add more than 5 persons" = "لا يمكنك إضافة أكثر من 5 أشخاص";
+"You must add at leat one person" = "يجب أضافة شخص واحد على الأقل";
+"pending" = "قيد الإنتظار";
+"accepted" = "تم القبول";
+"completed" = "مكتملة";
+"rejected" = "تم الرفض";
+"canceled" = "تم الإلغاء";
+"Watting payment" = "إنتظار الدفع";
+"There's no direction available for this location" = "لا يوجد موقع متاح";
+"Manage youe services directly" = "قم بإدارة خدماتك مباشرة";
+"Please, select city!" = "عذراً, يجب تحديد المدينة";
+"Language" = "اللغة";
+"To changing language you need to restart application, do you want to restart?" = "لتغيير اللغة أنت بحاجة لإعادة تشغيل التطبيق, هل أنت متأكد من أنك تريد إعادة التشغيل";
+"Enabled" = "مفعلة";
+"Disabled" = "معطلة";
+"Yes" = "نعم";
+"Trip" = "رحلة";
+"Event" = "فعالية";
+"You must enter valid service name in arabic" = "يجب إدخال إسم الخدمة بالعربية بشكل صحيح";
+"You must enter valid service name in english" ="يجب إدخال إسم الخدمة بالإنجليزية بشكل صحيح";
+"You must enter valid service type" = " يجب إدخال نوع الخدمة";
+"You must enter valid price" = "يجب إدخال سعر الخدمة";
+"You must enter valid city" = "يجب إختيار المدينة ";
+"You must enter total duration" = "يجب إدخال المدة الكلية";
+"You must enter valid duration" = "يجب إختيار المدة";
+"You must enter valid service name in arabic" = "يجب إدخال تفاصيل الخدمة بالعربية";
+"You must enter service descreption in english" = "يجب إدخال تفاصيل الخدمة بالإنجليزية";
+"You must add service photos" = "يجب إضافة صور الخدمة";
+"You must enter valid organiser name" = "يجب إدخال مسمى الجهة المنظمة";
+"You must enter valid number of persons" = "يجب إدخال عدد الأشخاص";
+"You must enter valid category" = "يجب إختيار تصنيف الخدمة";
+"You must enter service dates" = "يجب إضافة أوقات الخدمة";
+"You must enter service location" = "يجب إضافة مكان الخدمة";
+"Save" = "حفظ";
+"No" = "لا";
+"Rating" = "التقييم";
+"Service descreption (Arabic)" = " وصف الخدمة (عربي)";
+"Service descreption (English)" = "وصف الخدمة (إنجليزي)";
+"Select  correct  ending time" = "إختر وقت إنتهاء مناسب";
+"Restart" = "إعادة تفعيل";
+"Pause" = "إيقاف مؤقت";
+"You must enter valid name" =  "يجب إدخال إسم صحيح";
+"Go to location now" = "اذهب إلى الموقع الآن";
+"Waiting for the event organizer to accept the request" = "في انتظار قبول منظم الفعالية  للطلب";
+"the payment is canceled" = "تم إلغاء عملية الدفع";
+"Payment Failed" = "عملية الدفع فشلت";
+"Identity image required" = "يجب إضافة صورة الهوية الخاصة بك";
+"Reservation price:" = "سعر الحجز :";
+"Persons count :" = "عدد الأشخاص: ";
+"Are you sure want to delete this notification ?" = "هل أنت متأكد أنك تريد حذف هذا الإشعار؟";
+"Attention" = " تنبيه";
+"Trip (Required supplier acceptance)" = " رحلة (يشترط الموافقة من مزود الفعالية)";
+"Event (Unrequired supplier acceptance)" = " فعالية (لا يشترط الموافقة من مزود الفعالية)";
+"Trip time" = "وقت الرحلة";
+"Event time" = "وقت الفعالية";
+"Reservation details" = "تفاصيل الحجز";
+"Sory the reservations are completed" = "للأسف حجوزات الخدمة مكتملة";
+"You can't add more than" = "لا يمكنك إضافة أكثر من";
+"persons" = "أشخاص";
+"You must enter questions answers" = "يجب إدخال أجابات الأسئلة";
+"You must to check that you have  permissions to create activity " = "يجب أن يكون لديك تصريح لإنشاء الفعالية";
+"Diffrence between start and end time must be at least one hour" = "يجب أن يكون على الأقل ساعة بين وقت البدء و الإنتهاء";
+"Whatsapp  number invalid" = "رقم الواتس اب غير فعال";
+"Location Permission Required" = "مطلوب السماح بالوصول للموقع";
+"Please enable location permissions in settings." = "يجب تفعيل الموقع من الإعدادات";
+"Servie organiser: " = "منظم الفعالية : ";
+"Service date: " = "وقت الخدمة: ";
+"Completed reservation at" = "تم الحجز مسبقاً بتاريخ";
+"Access Requested" = " السماح بالوصول";
+"Saving image needs to access your photo album" = "لحفظ الصور بحاجة للوصول إلى ألبوم الصور";
+"Invalid video url" = "رابط الفيديو غير فعال";
+"No any available reservations" = "عذراً, لا يوجد حجوزات متاحة";
+"Please select time" = "الرجاء تحديد الوقت";

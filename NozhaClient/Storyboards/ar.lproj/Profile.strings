@@ -1,0 +1,99 @@
+
+/* Class = "UIButton"; normalTitle = "حفظ التعديلات"; ObjectID = "1W5-00-BSd"; */
+"1W5-00-BSd.normalTitle" = "حفظ التعديلات";
+
+/* Class = "UITextField"; placeholder = "كلمة المرور الحالية"; ObjectID = "2kt-gE-CpW"; */
+"2kt-gE-CpW.placeholder" = "كلمة المرور الحالية";
+
+/* Class = "UIButton"; normalTitle = " تواصل معنا"; ObjectID = "3nA-n3-MM7"; */
+"3nA-n3-MM7.normalTitle" = " تواصل معنا";
+
+/* Class = "UILabel"; text = "إرفاق صورة الهوية"; ObjectID = "4C6-I2-2G8"; */
+"4C6-I2-2G8.text" = "إرفاق صورة الهوية";
+
+/* Class = "UILabel"; text = "لا يوجد إتصال بالإنترنت"; ObjectID = "6Dh-R5-jWr"; */
+"6Dh-R5-jWr.text" = "لا يوجد إتصال بالإنترنت";
+
+/* Class = "UITextField"; placeholder = "الإسم كاملاً"; ObjectID = "8ma-34-ylc"; */
+"8ma-34-ylc.placeholder" = "الإسم كاملاً";
+
+/* Class = "UIButton"; normalTitle = "حفظ"; ObjectID = "AA6-rf-Mja"; */
+"AA6-rf-Mja.normalTitle" = "حفظ";
+
+/* Class = "UILabel"; text = "عن التطبيق"; ObjectID = "BAn-hN-hmY"; */
+"BAn-hN-hmY.text" = "عن التطبيق";
+
+/* Class = "UILabel"; text = "سياسة الاستخدام"; ObjectID = "CIf-Ti-KuU"; */
+"CIf-Ti-KuU.text" = "سياسة الاستخدام";
+
+/* Class = "UILabel"; text = "تأكد من وصول الجوال لشبكة الواي فاي"; ObjectID = "Duh-Bn-7Zb"; */
+"Duh-Bn-7Zb.text" = "تأكد من وصول الجوال لشبكة الواي فاي";
+
+/* Class = "UITextField"; placeholder = "الإسم كاملاً"; ObjectID = "IJf-9h-Yhd"; */
+"IJf-9h-Yhd.placeholder" = "الإسم كاملاً";
+
+/* Class = "UIButton"; normalTitle = "ولد"; ObjectID = "JE1-wy-O12"; */
+"JE1-wy-O12.normalTitle" = "ولد";
+
+/* Class = "UITextField"; placeholder = " البريد الالكتروني"; ObjectID = "K4X-Hr-GxJ"; */
+"K4X-Hr-GxJ.placeholder" = " البريد الالكتروني";
+
+/* Class = "UITextField"; placeholder = "المدينة"; ObjectID = "KHE-jl-GoW"; */
+"KHE-jl-GoW.placeholder" = "المدينة";
+
+/* Class = "UILabel"; text = " :اتصل بنا  52150200096650"; ObjectID = "MHX-pk-Uwi"; */
+"MHX-pk-Uwi.text" = " :اتصل بنا  52150200096650";
+
+/* Class = "UITextField"; placeholder = " البريد الالكتروني"; ObjectID = "MXa-LJ-RsA"; */
+"MXa-LJ-RsA.placeholder" = " البريد الالكتروني";
+
+/* Class = "UIButton"; normalTitle = "ولد"; ObjectID = "PcX-3v-Txt"; */
+"PcX-3v-Txt.normalTitle" = "ولد";
+
+/* Class = "UITextField"; placeholder = "تأكيد كلمة المرور"; ObjectID = "WsF-zQ-qsA"; */
+"WsF-zQ-qsA.placeholder" = "تأكيد كلمة المرور";
+
+/* Class = "UIButton"; normalTitle = "بنت"; ObjectID = "YB8-4d-8nW"; */
+"YB8-4d-8nW.normalTitle" = "بنت";
+
+/* Class = "UILabel"; text = "تطوير"; ObjectID = "Ztz-QR-p3T"; */
+"Ztz-QR-p3T.text" = "تطوير";
+
+/* Class = "UILabel"; text = "mane@domain.com : :راسلنا عبر"; ObjectID = "cLj-GW-RtM"; */
+"cLj-GW-RtM.text" = "mane@domain.com : :راسلنا عبر";
+
+/* Class = "UITextField"; placeholder = "كلمة المرور الجديدة"; ObjectID = "dAr-61-ckh"; */
+"dAr-61-ckh.placeholder" = "كلمة المرور الجديدة";
+
+/* Class = "UITextField"; placeholder = "رقم الهاتف"; ObjectID = "eZp-gq-Soh"; */
+"eZp-gq-Soh.placeholder" = "رقم الجوال";
+
+/* Class = "UILabel"; text = "يمكن أن يستبدل في نفس , المساحة\nهذا النص هو مثال لنص يمكن أن يستبدل في نفس , المساحة، لقد تم توليد هذا النص من مولد النصهذا النص هو مثال لنص يمكن أن مولد النص"; ObjectID = "idN-Np-YKy"; */
+"idN-Np-YKy.text" = "يمكن أن يستبدل في نفس , المساحة\nهذا النص هو مثال لنص يمكن أن يستبدل في نفس , المساحة، لقد تم توليد هذا النص من مولد النصهذا النص هو مثال لنص يمكن أن مولد النص";
+
+/* Class = "UITextField"; placeholder = "رقم الهاتف"; ObjectID = "iv9-Xx-1e3"; */
+"iv9-Xx-1e3.placeholder" = "رقم الجوال";
+
+/* Class = "UIButton"; normalTitle = "محاولة أخرى"; ObjectID = "j9D-PW-2Qm"; */
+"j9D-PW-2Qm.normalTitle" = "محاولة أخرى";
+
+/* Class = "UILabel"; text = "تغييـر كلمة المرور"; ObjectID = "mm1-IK-mmG"; */
+"mm1-IK-mmG.text" = "تغييـر كلمة المرور";
+
+/* Class = "UIButton"; normalTitle = "هل تود تعديل رقم الهوية ؟"; ObjectID = "rif-46-I9Z"; */
+"rif-46-I9Z.normalTitle" = "هل تود تعديل صورة الهوية ؟";
+
+/* Class = "UITextField"; placeholder = "المدينة"; ObjectID = "ti5-2j-Hwa"; */
+"ti5-2j-Hwa.placeholder" = "المدينة";
+
+/* Class = "UIButton"; normalTitle = "إرسال"; ObjectID = "u9d-17-80C"; */
+"u9d-17-80C.normalTitle" = "إرسال";
+
+/* Class = "UIButton"; normalTitle = "بنت"; ObjectID = "v2f-q3-3V7"; */
+"v2f-q3-3V7.normalTitle" = "بنت";
+
+/* Class = "UILabel"; text = "تعديل الحساب"; ObjectID = "xu8-rE-Niu"; */
+"xu8-rE-Niu.text" = "تعديل الحساب";
+
+/* Class = "UILabel"; text = "تواصل معنا"; ObjectID = "y7w-6M-hhQ"; */
+"y7w-6M-hhQ.text" = "تواصل معنا";

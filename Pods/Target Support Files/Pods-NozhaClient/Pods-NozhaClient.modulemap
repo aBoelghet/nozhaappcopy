@@ -1,0 +1,6 @@
+framework module Pods_NozhaClient {
+  umbrella header "Pods-NozhaClient-umbrella.h"
+
+  export *
+  module * { export * }
+}

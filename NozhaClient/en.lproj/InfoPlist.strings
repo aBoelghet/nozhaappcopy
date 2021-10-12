@@ -1,0 +1,14 @@
+/* 
+  InfoPlist.strings
+  NozhaClient
+
+  Created by macbook on 04/03/2021.
+  
+*/
+"CFBundleDisplayName" = "Nozha";
+"CFBundleName" = "Nozha";
+"NSCameraUsageDescription" = "need to access to share your  image";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "To browse  services based on your location, we are requesting access to your location";
+"NSLocationWhenInUseUsageDescription" = "using for adding your address";
+"NSPhotoLibraryUsageDescription" = "need to access to share your  image";
+

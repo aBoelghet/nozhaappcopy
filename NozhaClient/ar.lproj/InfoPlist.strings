@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  NozhaClient
+
+  Created by macbook on 04/03/2021.
+  
+*/
+"CFBundleDisplayName" = "نزهة";
+"CFBundleName" = "نزهة";
+"NSCameraUsageDescription" = "السماح بالوصول للكاميرا لالتقاط صورة ";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "لإستعراض الخدمات القريبة من موقعك";
+"NSLocationWhenInUseUsageDescription" = "لإضافة عناوين خاصة بك";
+"NSPhotoLibraryUsageDescription" = "السماح بالوصول لمكتبة الصور الخاصة بك لاختيار صورة";
